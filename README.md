@@ -1,2 +1,2 @@
-# leena
+# Leena
 Leena's personal playground 😎
